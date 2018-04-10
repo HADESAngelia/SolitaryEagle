@@ -1,2 +1,2 @@
 # SolitaryEagle
-An download tool
+A command line music player
